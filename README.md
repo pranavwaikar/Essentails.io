@@ -1,8 +1,12 @@
-# Essentails.io
+# Essentials.io
 This repo contains the codebase for Essentails.io app. 
 This app provides a simple way to connect consumers &amp; service providers.
 
-# For Frontend flutter App
+# For Frontend Flutter App
+Open Android Studio:
+  Check out project from Version Control using git repository url.
+  Close prompt and Open an existing Android Studio Project by navigating
+  to essential.io-flutter.
 
 # For Backend Ruby API
 
