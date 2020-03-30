@@ -4,9 +4,9 @@ This app provides a simple way to connect consumers &amp; service providers.
 
 # For Frontend Flutter App
 Open Android Studio:
-  Check out project from Version Control using git repository url.
-  Close prompt and Open an existing Android Studio Project by navigating
-  to essential.io-flutter.
+
+* Check out project from Version Control using git repository url.
+* Close prompt and Open an existing Android Studio Project by navigating to essential.io-flutter.
 
 # For Backend Ruby API
 
